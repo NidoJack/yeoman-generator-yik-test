@@ -7,7 +7,7 @@ First, install [Yeoman](http://yeoman.io) and generator-yik-test using [npm](htt
 
 ```bash
 npm install -g yo
-npm install -g generator-yik-test
+npm install -g git://github.com/NidoJack/yeoman-generator-yik-test
 ```
 
 Then generate your new project:
